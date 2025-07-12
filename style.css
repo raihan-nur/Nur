@@ -58,3 +58,30 @@
     color: white;
 
 }
+
+/* main-body-part */
+
+.web-flow{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 250px;
+}
+.but-3{
+    height: 24px;
+    width: 130px;
+    /* padding: 0 50px; */
+    font-size: 11px;
+    border-radius: 5px;
+    background-color: #4E47FF;
+    color: white;
+}
+
+.army{
+    border-style: solid;
+    height: 40px;
+    width: 265px;
+    /* border: 2px solid #4E47FF; */
+    border-color: #4E47FF;
+    text-align: center;
+}
+
