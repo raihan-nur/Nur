@@ -193,4 +193,15 @@
 .logo{
     text-align: center;
     font-size: 70px;
+    padding-bottom: 20px;
+    margin-bottom: -27px;
+    
+    
+}
+
+.online-presence{
+    border: 2px solid blue;
+    padding: 10px 10px;
+    margin-left: 550px;
+    margin-right: 550px;
 }
