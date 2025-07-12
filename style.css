@@ -1,5 +1,6 @@
 .body{
     background-color: #F5F8FF;
+    /* max-width: 150px; */
 }
 
 /* navbar */
@@ -95,7 +96,7 @@
     margin-left: 150px;
     margin-top: 50px;
     margin-right: 150px;
-    padding: 25px 250px;
+    padding: 25px 25px;
     border: 2px solid #4E47FF;
     border-radius: 20px;
     background-color: #a9adec;
@@ -103,7 +104,7 @@
 }
 
 .users{
-    margin-left: 80px;
+    margin-left: 150px;
     font-size: 32px;
     /* justify-content: center; */
 }
@@ -128,10 +129,36 @@
 
 .margin{
     margin-top: 50px;
+    padding: 40px;
 }
 
 .opinion-1{
     /* margin-left: 700px; */
     text-align: center;
     font-size: 35px;
+}
+.designer{
+    font-size: 20px;
+}
+.parent-div{
+    border: 2px solid #a9adec;
+    border-radius: 20px;
+    /* margin-right: 10px;
+    margin-left: 10px; */
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    /* width: 100px; */
+    /* display: flex; */
+    box-shadow: 5px 10px 10px #a9adec;
+    
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    /* gap: 10px; */
+    /* padding: 20px 200px; */
+    /* margin: 0 250px; */
 }
