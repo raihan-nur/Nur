@@ -1,0 +1,60 @@
+/* navbar */
+.full{
+    background-image: url('./Assets/Hero-bg.png');
+    background-size: contain;
+    /* margin-bottom: 500px; */
+    padding: 20px;
+ }
+
+.color{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 500px;
+    /* padding: 40px ; */
+}
+.logo{
+    color: #4E47FF;
+}
+
+.but{
+    height: 24px;
+    width: 60px;
+    /* padding: 0 50px; */
+    font-size: 11px;
+    border-radius: 5px;
+    background-color: #4E47FF;
+    color: white;
+}
+
+/* 2nd div */
+
+.nav2{
+    /* margin-top: 100px; */
+}
+
+.first{
+    text-align: center;
+    font-family: Raleway;
+    font-size: 45px;
+    font-weight: bold;
+    border: 2px solid #4E47FF;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.second{
+    text-align: center;
+    /* border: 1px ridge #4E47FF; */
+}
+
+.but-2{
+    height: 40px;
+    width: 100px;
+    /* padding: 0 50px; */
+    font-size: 11px;
+    border-radius: 5px;
+    background-color: #4E47FF;
+    color: white;
+
+}
