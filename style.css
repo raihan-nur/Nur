@@ -205,3 +205,15 @@
     margin-left: 550px;
     margin-right: 550px;
 }
+
+.footer-nav-list{
+    list-style: none;
+}
+.footer-nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    color: #a9adec;
+}
+    
+                                                           /* End  */
